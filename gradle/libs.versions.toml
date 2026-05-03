@@ -1,5 +1,5 @@
 [versions]
-fulfill = "2.3.11"
+fulfill = "3.4.3"
 
 [libraries]
 fulfill = { module = "io.ktor:ktor-server-core", version.ref = "fulfill" }
